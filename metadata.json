@@ -1,0 +1,6 @@
+{
+  "name": "The Eden Lifestyle Orchard and Nursery",
+  "description": "Premium grafted and indigenous fruit tree nursery in Bulawayo. Unlock financial freedom through generational orchard investments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
